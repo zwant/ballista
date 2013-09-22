@@ -1,0 +1,6 @@
+.vagrant
+.Python
+lib/python2.7
+lib/ballista_lib/ballista_lib.egg-info
+*.pyc
+bin

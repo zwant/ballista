@@ -1,0 +1,2 @@
+class BallistaException(Exception):
+	pass
